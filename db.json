@@ -104,6 +104,36 @@
       "id" : 21,
       "title" : "welcome-img.png",
       "url" : "../assets/img/welcome-img.png"
+    },
+    {
+      "id" : 22,
+      "title" : "about-1.jpg",
+      "url" : "../assets/img/about/1.jpg"
+    },
+    {
+      "id" : 23,
+      "title" : "about-2.jpg",
+      "url" : "../assets/img/about/2.jpg"
+    },
+    {
+      "id" : 24,
+      "title" : "about-3.jpg",
+      "url" : "../assets/img/about/3.jpg"
+    },
+    {
+      "id" : 25,
+      "title" : "about-4.jpg",
+      "url" : "../assets/img/about/4.jpg"
+    },
+    {
+      "id" : 26,
+      "title" : "gallery-0.jpg",
+      "url" : "../assets/img/gallery/0.jpg"
+    },
+    {
+      "id" : 27,
+      "title" : "gallery-1.jpg",
+      "url" : "../assets/img/gallery/1.jpg"
     }
   ]
 }
