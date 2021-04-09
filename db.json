@@ -3,137 +3,159 @@
     {
       "id" : 1,
       "title" : "0.jpg",
-      "url" : "../assets/img/0.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/0.jpg"
     },
     {
       "id" : 2,
       "title" : "1.jpg",
-      "url" : "../assets/img/1.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/1.jpg"
     },
     {
       "id" : 3,
       "title" : "2.jpg",
-      "url" : "../assets/img/2.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/2.jpg"
     },
     {
       "id" : 4,
       "title" : "4-1.jpg",
-      "url" : "../assets/img/4-1.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-1.jpg"
     },
     {
       "id" : 5,
       "title" : "4-2.jpg",
-      "url" : "../assets/img/4-2.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-2.jpg"
     },
     {
       "id" : 6,
       "title" : "4-3.jpg",
-      "url" : "../assets/img/4-3.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-3.jpg"
     },
     {
       "id" : 7,
       "title" : "4-4.jpg",
-      "url" : "../assets/img/4-4.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-4.jpg"
     },
     {
       "id" : 8,
       "title" : "banner-bg.jpg",
-      "url" : "../assets/img/banner-bg.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/banner-bg.jpg"
     },
     {
       "id" : 9,
       "title" : "call-us-bg.jpg",
-      "url" : "../assets/img/call-us-bg.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/call-us-bg.jpg"
     },
     {
       "id" : 10,
       "title" : "contact-form-bg.jpg",
-      "url" : "../assets/img/contact-form-bg.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/contact-form-bg.jpg"
     },
     {
       "id" : 11,
       "title" : "copyright-bg.png",
-      "url" : "../assets/img/copyright-bg.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/copyright-bg.png"
     },
     {
       "id" : 12,
       "title" : "footer-bg.jpg",
-      "url" : "../assets/img/footer-bg.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/footer-bg.jpg"
     },
     {
       "id" : 13,
       "title" : "gallery-header.jpg",
-      "url" : "../assets/img/gallery-header.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/gallery-header.jpg"
     },
     {
       "id" : 14,
       "title" : "gallery-list-icon.png",
-      "url" : "../assets/img/gallery-list-icon.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/gallery-list-icon.png"
     },
     {
       "id" : 15,
       "title" : "header.png",
-      "url" : "../assets/img/header.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/header.png"
     },
     {
       "id" : 16,
       "title" : "nav-underline.png",
-      "url" : "../assets/img/nav-underline.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/nav-underline.png"
     },
     {
       "id" : 17,
       "title" : "plus.png",
-      "url" : "../assets/img/plus.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/plus.png"
     },
     {
       "id" : 18,
       "title" : "services-1.jpg",
-      "url" : "../assets/img/services-1.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/services-1.jpg"
     },
     {
       "id" : 19,
       "title" : "welcome-bg.jpg",
-      "url" : "../assets/img/welcome-bg.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/welcome-bg.jpg"
     },
     {
       "id" : 20,
       "title" : "welcome-bg-old.jpg",
-      "url" : "../assets/img/welcome-bg-old.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/welcome-bg-old.jpg"
     },
     {
       "id" : 21,
       "title" : "welcome-img.png",
-      "url" : "../assets/img/welcome-img.png"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/welcome-img.png"
     },
     {
       "id" : 22,
       "title" : "about-1.jpg",
-      "url" : "../assets/img/about/1.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/about/1.jpg"
     },
     {
       "id" : 23,
       "title" : "about-2.jpg",
-      "url" : "../assets/img/about/2.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/about/2.jpg"
     },
     {
       "id" : 24,
       "title" : "about-3.jpg",
-      "url" : "../assets/img/about/3.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/about/3.jpg"
     },
     {
       "id" : 25,
       "title" : "about-4.jpg",
-      "url" : "../assets/img/about/4.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/about/4.jpg"
     },
     {
       "id" : 26,
       "title" : "gallery-0.jpg",
-      "url" : "../assets/img/gallery/0.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/gallery/0.jpg"
     },
     {
       "id" : 27,
       "title" : "gallery-1.jpg",
-      "url" : "../assets/img/gallery/1.jpg"
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/gallery/1.jpg"
+    }
+  ],
+  "services" : [
+    {
+      "id" : 1,
+      "title" : "4-1.jpg",
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-1.jpg"
+    },
+    {
+      "id" : 2,
+      "title" : "4-2.jpg",
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-2.jpg"
+    },
+    {
+      "id" : 3,
+      "title" : "4-3.jpg",
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-3.jpg"
+    },
+    {
+      "id" : 4,
+      "title" : "4-4.jpg",
+      "url" : "https://raw.githubusercontent.com/JuanElNino/MotorAPI/main/img/4-4.jpg"
     }
   ]
 }
